@@ -3,12 +3,37 @@
     <title>Kreisklasse Enroute</title>
     <link href="https://kreisklasse.github.io/enroute/feed.xml" rel="self" />
     <link href="https://kreisklasse.github.io/enroute" />
-    <updated>2025-09-05T13:55:54+02:00</updated>
+    <updated>2025-09-05T14:18:52+02:00</updated>
     <author>
         <name>Olli P.</name>
     </author>
     <id>https://kreisklasse.github.io/enroute</id>
 
+    <entry>
+        <title>Test Post 2</title>
+        <author>
+            <name>Olli P.</name>
+        </author>
+        <link href="https://kreisklasse.github.io/enroute/test-post-2.html"/>
+        <id>https://kreisklasse.github.io/enroute/test-post-2.html</id>
+            <category term="Travel"/>
+            <category term="Hiking"/>
+
+        <updated>2025-09-05T14:14:16+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Test post 2 text Warning: I told you so.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test post 2 text</p>
+<p> </p>
+<p class="msg msg--warning">Warning: I told you so.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test Post</title>
         <author>
