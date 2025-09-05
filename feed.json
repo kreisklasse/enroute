@@ -9,5 +9,19 @@
         "name": "Olli P."
     },
     "items": [
+        {
+            "id": "https://kreisklasse.github.io/enroute/test-post.html",
+            "url": "https://kreisklasse.github.io/enroute/test-post.html",
+            "title": "Test Post",
+            "summary": "test post text",
+            "content_html": "<p>test post text</p>",
+            "author": {
+                "name": "Olli P."
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-05T13:55:54+02:00",
+            "date_modified": "2025-09-05T13:55:54+02:00"
+        }
     ]
 }
